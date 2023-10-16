@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+	font-family: 'Inter', sans-serif;
+}
+
+@font-face {
+	font-family: 'Inter_Regular';
+	src: url('./fonts/Inter-Regular.ttf');
+	font-weight: normal;
+	font-display: swap;
+}
+/* @font-face {
+		font-family: 'Inter';
+		src: local('Lobster Two Bold'), local('Lobster-Two-Bold'), local('lobster two bold'),
+			local('lobster-two-bold'), url('/fonts/lobster-two/LobsterTwo-Bold.otf');
+		font-weight: bold;
+		font-display: swap;
+	} */
