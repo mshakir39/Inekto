@@ -26,8 +26,8 @@
 				id: 1,
 				icon: '/pictos_PNG/Inekto_cubes.png',
 				alt: 'Boxes',
-				title: homePage.services[0].title,
-				description: homePage.services[0].des
+				title: homePage?.services[0].title,
+				description: homePage?.services[0].des
 			},
 			{
 				id: 2,

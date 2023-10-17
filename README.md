@@ -8,11 +8,11 @@ Inekto IT Solutions offers reliable IT solutions for businesses, designed to sav
 
 ## Key Features
 
-- Reliable IT solutions for businesses.
-- Expertise in software development and security.
-- 20% tax credit support for eligible projects.
-- Check out our past achievements.
-- Get in touch with us.
+-   Reliable IT solutions for businesses.
+-   Expertise in software development and security.
+-   20% tax credit support for eligible projects.
+-   Check out our past achievements.
+-   Get in touch with us.
 
 ## Contact Us
 
@@ -24,14 +24,14 @@ Learn more about Inekto by visiting our [official website](https://www.inekto.co
 
 ## Keywords
 
-- IT solutions
-- Reliability
-- Development
-- French company
-- Expertise
-- Security
-- 20% tax credit
-- Achievements
+-   IT solutions
+-   Reliability
+-   Development
+-   French company
+-   Expertise
+-   Security
+-   20% tax credit
+-   Achievements
 
 ---
 
