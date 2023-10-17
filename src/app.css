@@ -6,6 +6,11 @@ body {
 	font-family: 'Inter', sans-serif;
 }
 
+html,
+body {
+	scroll-behavior: smooth !important;
+}
+
 @font-face {
 	font-family: 'Inter_Regular';
 	src: url('./fonts/Inter-Regular.ttf');
